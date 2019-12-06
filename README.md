@@ -6,8 +6,8 @@ Also created typical supermarket databases in MongoDB for the prototype demonstr
 Spoonacular was used as the Recipe recommendation API.
 
 # The Service
-The Front consists of 3 tabs, Recipies, Leftover Foods and Discount Foods.
-The Leftover foods tab shows your purchase history upto 10 products, as well as the place of purchase. The products are sorted by Expiry date.
+The Front consists of 3 tabs, Recipies, Leftover Foods and Discount Foods. Click "Track Foodstuffs!" to get output/refresh.
+The Leftover foods tab shows your purchase history of upto 10 products, as well as the place of purchase. The products are sorted by Expiry date.
 
 ![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/leftover.png)
 
