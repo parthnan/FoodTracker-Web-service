@@ -1,6 +1,6 @@
 # Food Tracker - Let us stop food wastage
 [![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)
-[![HitCount](http://hits.dwyl.com/{username}/{project-name}.svg)](http://hits.dwyl.com/{username}/{project-name})
+[![HitCount](http://hits.dwyl.com/parthnan/FoodTracker.svg)](http://hits.dwyl.com/parthnan/FoodTracker)
 
 A Web service aimed at reducing food wastage. The web app checks for items in nearby supermarkets(if they are registered with the service) that have a large discount and/or close to expiring, and suggests recpies alongwith images and description using these.
 
