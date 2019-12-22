@@ -24,3 +24,5 @@ The Recipies tab showcases 5 of the most relevant recipies that use two of the l
 
 ![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/recipies.png)
 
+# See frontend demo
+Use commands "npm install" and  "npm run dev" in node.js terminal.
