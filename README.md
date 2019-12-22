@@ -10,6 +10,11 @@ Spoonacular was used as the Recipe recommendation API.
 
 # The Service
 The Front consists of 3 tabs, Recipies, Leftover Foods and Discount Foods. Click "Track Foodstuffs!" to get output/refresh.
+
+The Recipies tab showcases 5 of the most relevant recipies that use two of the leftover foods and discount foods
+
+![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/recipies.png)
+
 The Leftover foods tab shows your purchase history of upto 10 products, as well as the place of purchase. The products are sorted by Expiry date.
 
 ![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/leftover.png)
@@ -18,11 +23,6 @@ The Leftover foods tab shows your purchase history of upto 10 products, as well 
 The Discount foods tab displays upto 10 low price foods close to expiry in registered stores, as well as the location.
 
 ![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/discount.png)
-
-
-The Recipies tab showcases 5 of the most relevant recipies that use two of the leftover foods and discount foods
-
-![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/recipies.png)
 
 # See frontend demo
 Use commands "npm install" and  "npm run dev" in node.js terminal.
