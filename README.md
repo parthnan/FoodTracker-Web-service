@@ -23,6 +23,3 @@ The Leftover foods tab shows your purchase history of upto 10 products, as well 
 The Discount foods tab displays upto 10 low price foods close to expiry in registered stores, as well as the location.
 
 ![alt text](https://raw.githubusercontent.com/parthnan/FoodTracker/master/discount.png)
-
-# See frontend demo
-Use commands "npm install" and  "npm run dev" in node.js terminal.
